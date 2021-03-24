@@ -1,9 +1,9 @@
 .row{
     padding: 5px;
     margin: 15px;
-    height: 40px;
+    height: 60px;
     display: flex;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 .col{
